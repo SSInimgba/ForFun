@@ -1,2 +1,2 @@
 # ForFun
-Projects I am working for fun
+These are the projects I am working for fun.
